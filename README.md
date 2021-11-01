@@ -7,7 +7,7 @@ Currentrly I am using .NET for the back end but I am interest in learning Java S
 - 📫  You can connect with me on my email:(stefank.dev.acc@gmail.com)
 - Check out my web site: https://stefan-kehayov.web.app/   🚧 Work in progress 🚧 .
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanKehayov)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanKehayov)]
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanKehayov&show_icons=true)
